@@ -11,9 +11,13 @@ This project was created for computer science
 sixty-one A at Cal. 
 
 
-#######USE INSTRUCTIONS##########
-you can create a user by going to the USER folder and
+#######USE INSTRUCTIONS#########
+
+You can create a user by going to the USER folder and
 creating a new .dat file with your prefs on restaurants
+
+Get a list of all the restaurants in this dataset by running:
+python3 recommend.py -r
 
 Generate a visualization by running -u to select a user 
 from the USER directory:
